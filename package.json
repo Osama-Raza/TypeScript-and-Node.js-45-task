@@ -1,0 +1,12 @@
+{
+  "name": "TypeScript and Node.js",
+  "version": "1.0.0",
+  "description": "In this file I solved 45 question of Governor Sndh IT initiative program by using javaScript knowledge",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Osama Saleem , Roll-No (00036822)",
+  "license": "ISC"
+}
